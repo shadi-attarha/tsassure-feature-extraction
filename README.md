@@ -2,6 +2,11 @@ This repository contains the TsAssure python package.
 
 The package provides systematic time-series feature extraction by calculating the correlation among different time-series data points and extracting the meaningful features. In this context, the term time series is interpreted in the broadest possible sense, such that any type of sampled data or even event sequences can be characterized.
 
+## Installation
+
+To install this package, you can use `pip`. Run the following command in your terminal:
+  pip install tsassure-feature
+
 ## Citation
 
 If you use this repository in your research, please cite our conference paper:
