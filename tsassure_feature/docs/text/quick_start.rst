@@ -76,7 +76,9 @@ You will get a DataFrame `df` with meanigful features. Print to see the df and t
 `TsAssure.ipynb <https://colab.research.google.com/drive/1tHabIjiNofVFtG9WGYUxxYbJQ6fKT3gX?usp=drive_link>`_.
 
 References
+==========
 
-.. [1] https://github.com/shadi-attarha/tsassure-feature-extraction/blob/main/mainSet.xlsx
-.. [2] https://github.com/shadi-attarha/tsassure-feature-extraction/blob/main/NormalData.xlsx
+.. [1] `Main Set <https://github.com/shadi-attarha/tsassure-feature-extraction/blob/main/mainSet.xlsx>`_
+.. [2] `Normal Data <https://github.com/shadi-attarha/tsassure-feature-extraction/blob/main/NormalData.xlsx>`_
+
 
