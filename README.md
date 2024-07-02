@@ -7,6 +7,7 @@ The package provides systematic time-series feature extraction by calculating th
 If you use this repository in your research, please cite our conference [paper](https://ieeexplore.ieee.org/abstract/document/10108238):
 
 @inproceedings{attarha2023automated,
+
   title={Automated fault detection framework for reliable provision of iot applications in agriculture},
   author={Attarha, Shadi and Band, Saurabh and F{\"o}rster, Anna},
   booktitle={2023 19th International Conference on the Design of Reliable Communication Networks (DRCN)},
