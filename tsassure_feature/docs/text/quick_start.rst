@@ -37,8 +37,6 @@ The `mainSet` DataFrame has the following structure:
 
 .. code:: python
 
-   print(timeseries.head())
-
 +-------------+-----------+----------+----------+
 | Merge_Humi  | Merge_Temp| Humi_Wea | Temp_Wea | 
 +=====+=====+=====+=====+=====+=====+=====+=====+
